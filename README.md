@@ -2,7 +2,7 @@
 
 Aspiring AI Engineer | Machine Learning | NLP (TLN) | Python | Java | TypeScript | Docker
 
-Laureato in Informatica. So sviluppare in ambito backend (Java, Spring Boot, Docker) e sto approfondendo machine learning ed elaborazione del linguaggio naturale attraverso i progetti del percorso di laurea magistrale.
+Laureato Magistrale in Informatica con specialistica in Intelligenza artificiale e background triennale in Informatica. So sviluppare in ambito backend (Java, Spring Boot, Docker) e frontend (JavaScript, React, Next.js, TypeScript) e ho approfondito machine learning ed elaborazione del linguaggio naturale attraverso i progetti del percorso di laurea magistrale.
 
 ## Tirocinio
 
