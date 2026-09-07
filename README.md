@@ -13,6 +13,7 @@ Durante il tirocinio ho lavorato su SUSMIRRI-catalog, un'applicazione completa p
 - Progetti di machine learning e NLP: classificazione, clustering, similarità semantica, named entity recognition
 - Esercitazioni di intelligenza artificiale in Prolog e CLIPS
 - Un'applicazione Java/Spring Boot con microservizi
+- Progetti personali in ambito AI e sviluppo software
 
 ## Contatti
 
